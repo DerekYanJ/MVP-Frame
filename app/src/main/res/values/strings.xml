@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP-Frame</string>
+    <string name="str_progress_msg_commit">提交中...</string>
+    <string name="str_progress_msg_load">加载中...</string>
+    <string name="str_progress_msg_query">查询中...</string>
+    <string name="str_progress_msg_cashier">结算中...</string>
+    <string name="str_progress_msg_uploading">上传中...</string>
+</resources>
